@@ -1,4 +1,4 @@
-package com.richcodes.secruity.config;
+package com.richcodes.secruity;
 
 public class PasswordEncoder {
 }

@@ -12,7 +12,6 @@ public class AppUserService  implements UserDetailsService {
     public static final String message =
             "user with email %S not found";
 
-
     private final AppUserRepository appUserRepository;
 
     public AppUserService(AppUserRepository appUserRepository) {
